@@ -13,3 +13,5 @@
 #else
 #  puts "Stay at home and read Hegel."
 #end
+
+puts "Hey, it's 2019!"
